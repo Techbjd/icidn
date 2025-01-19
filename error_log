@@ -1,0 +1,10 @@
+[24-Sep-2024 23:54:48 PRC] PHP Warning:  require(/home/icidnnepal/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home/icidnnepal/public_html/index.php on line 19
+[24-Sep-2024 23:54:48 PRC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/icidnnepal/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/icidnnepal/public_html/index.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/icidnnepal/public_html/index.php on line 19
+[24-Sep-2024 23:55:17 PRC] PHP Warning:  require(/home/icidnnepal/public_html/wp-blog-header.php): Failed to open stream: No such file or directory in /home/icidnnepal/public_html/index.php on line 19
+[24-Sep-2024 23:55:17 PRC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/icidnnepal/public_html/wp-blog-header.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home/icidnnepal/public_html/index.php:19
+Stack trace:
+#0 {main}
+  thrown in /home/icidnnepal/public_html/index.php on line 19
